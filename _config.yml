@@ -27,7 +27,7 @@ twitter_username:
 github_username:  abbysyp
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
