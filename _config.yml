@@ -20,7 +20,7 @@
 
 title: test-site-1
 email: abbysyp@umich.edu
-description: >- test site for si 676 lab 3
+description: test site for si 676 lab 3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
